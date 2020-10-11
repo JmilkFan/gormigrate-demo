@@ -1,9 +1,9 @@
 package version
 
 import (
-	v1 "test_db/version/v1"
-	v2 "test_db/version/v2"
-	v3 "test_db/version/v3"
+	v1 "gormigrate-demo/version/v1"
+	v2 "gormigrate-demo/version/v2"
+	v3 "gormigrate-demo/version/v3"
 
 	"github.com/go-gormigrate/gormigrate/v2"
 )

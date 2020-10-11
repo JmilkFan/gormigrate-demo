@@ -1,7 +1,7 @@
 package v1
 
 import (
-	v0ModelSchema "test_db/version/v0"
+	v0ModelSchema "gormigrate-demo/version/v0"
 
 	"github.com/go-gormigrate/gormigrate/v2"
 	"gorm.io/gorm"
